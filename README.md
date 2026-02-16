@@ -1,4 +1,6 @@
 # Git Assignment 2 - Owner Version
+# Git Assignment 2 (Changes in first line for conflict)
+
 
 ## Student Information
 Name: Tanay Patel
