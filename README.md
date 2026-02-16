@@ -1,4 +1,4 @@
-# Git Assignment 2
+# Git Assignment 2 - Owner Version
 
 ## Student Information
 Name: Tanay Patel
