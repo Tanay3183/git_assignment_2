@@ -1,4 +1,4 @@
-# Git Assignment 2
+# Git Assignment 2 (Changes in first line for conflict)
 
 ## Student Information
 Name: Tanay Patel
